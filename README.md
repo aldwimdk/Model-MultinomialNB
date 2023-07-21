@@ -69,7 +69,7 @@ Based on the results of discussions with my supervisor Mrs. Rahmalia Syahputri, 
   - Copyright
   - Legal Compliance
   - Context and Accuracy
-  - Etika and Fair Use
+  - Ethics and Fair Use
 Given the context of using data obtained through web scraping, it is important to always adhere to the rules and policies of the websites accessed, obtain consent where necessary, and consider ethical and privacy aspects in the use and distribution of such data. Publishing scraped data, it is necessary to have proper permission from the data owner and ensure it does not violate the law or privacy policy.
 Therefore if you want to use this dataset for academic or research purposes, please contact me via the following e-maail aldwimandak.1911010070@mail.darmajaya.ac.id
 
