@@ -78,9 +78,11 @@ Therefore if you want to use this dataset for academic or research purposes, ple
 References :
 1. Program
    https://kagle.com/
+   
    https://github.com/
+   
    https://medium.com/
-2. Academic Paper
+3. Academic Paper
 Albitar, S., Fournier, S., & Espinasse, B. (2014). An effective TF/IDF-based text-to-text semantic similarity measure for text classification. Web         Information Sistem Engineering–WISE 2014: 15th International Conference, Thessaloniki, Greece, October 12-14, 2014, Proceedings, Part I 15, 105–114.
 Ashari, H., Arifianto, D., & Faruq, H. A. A. (2020). PERBANDINGAN KINERJA ALGORITMA MULTINOMIAL NAÏVE BAYES (MNB), MULTIVARIATE BERNOULLI DAN ROCCHIO ALGORITHM DALAM KLASIFIKASI KONTEN BERITA HOAX BERBAHASA INDONESIA PADA MEDIA SOSIAL.
 Azeez, N. A., Idiakose, S. O., Onyema, C. J., & Vyver, C. V. D. (2021). Cyberbullying Detection in Social Networks: Artificial Intelligence Approach. Journal of Cyber Security and Mobility. https://doi.org/10.13052/jcsm2245-1439.1046
