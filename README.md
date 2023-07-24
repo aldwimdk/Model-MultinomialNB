@@ -64,12 +64,13 @@ Summary:
 The Naïve Bayes Multinomial classification model used in this project has a very good performance with an initial accuracy value of 93.38% which is then applied various techniques to improve model performance so that the model experiences an increase in performance to 94.61% and can classify documents precisely and accurately.
 
 *** IMPORTANT NOTICE ***
-Based on the results of discussions with my supervisor Mrs. Rahmalia Syahputri, S.Kom., M.Eng. Sc, we decided not to upload the dataset used in this repository because we considered several things as follows:
+Based on the results of discussions with my lecturer Mrs. Rahmalia Syahputri, S.Kom., M.Eng. Sc, we decided not to upload the dataset used in this repository because we considered several things as follows:
   - Privacy Policy
   - Copyright
   - Legal Compliance
   - Context and Accuracy
   - Ethics and Fair Use
+
 Given the context of using data obtained through web scraping, it is important to always adhere to the rules and policies of the websites accessed, obtain consent where necessary, and consider ethical and privacy aspects in the use and distribution of such data. Publishing scraped data, it is necessary to have proper permission from the data owner and ensure it does not violate the law or privacy policy.
 Therefore if you want to use this dataset for academic or research purposes, please contact me via the following e-maail aldwimandak.1911010070@mail.darmajaya.ac.id
 
